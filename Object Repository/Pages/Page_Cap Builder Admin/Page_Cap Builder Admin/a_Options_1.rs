@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Options_1</name>
+   <tag></tag>
+   <elementGuidId>bfa350b4-ff42-483a-a619-3bb9b0d10ec4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Options')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eb423f9d-08ae-4cc3-aaa7-29a55733306b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-primary transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 active:text-primary-700  dark:text-neutral-400 dark:hover:text-neutral-500 dark:focus:text-neutral-500 dark:active:text-neutral-600</value>
+      <webElementGuid>e7112bdf-61f5-4f1b-9f87-e021ed79bc47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/page/options</value>
+      <webElementGuid>9199f5f2-8ef8-44a6-bcb2-0ba94fccdf64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Options</value>
+      <webElementGuid>4c2ba94a-86e9-40e8-bbac-aca24f7dea77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;h-full bg-gray-100&quot;]/body[@class=&quot;__className_0ec1f4 bg-white mx-auto h-full&quot;]/main[@class=&quot;md:flex max-h-fit h-full overflow-hidden&quot;]/div[@class=&quot;max-h-screen overflow-hidden overflow-y-scroll- flex-1&quot;]/div[@class=&quot;min-h-full&quot;]/header[@class=&quot;bg-white shadow&quot;]/div[@class=&quot;mx-auto flex -max-w-7xl px-4 py-4 sm:px-6 lg:px-8 justify-between align-middle&quot;]/div[@class=&quot;col&quot;]/nav[@class=&quot;w-full-rounded-md  px-3 pl-1 pt-2 bg-white&quot;]/ol[@class=&quot;list-reset flex&quot;]/li[3]/a[@class=&quot;text-primary transition duration-150 ease-in-out hover:text-primary-600 focus:text-primary-600 active:text-primary-700  dark:text-neutral-400 dark:hover:text-neutral-500 dark:focus:text-neutral-500 dark:active:text-neutral-600&quot;]</value>
+      <webElementGuid>fd9572b0-e448-42a2-a5fa-44f40b816dea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Options')])[2]</value>
+      <webElementGuid>7fa27588-3e03-4e6f-a0b2-5a1a0dc5e52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::a[1]</value>
+      <webElementGuid>70a4a38c-5dbd-4c8f-bc0d-e36569da20a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>23968407-82cb-4dae-b783-57d59b153582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>c89e44e3-a19d-4fd5-81d1-854d971f6737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>e64dc2fb-d996-4cd4-a6ee-19ca47db3900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/page/options')]</value>
+      <webElementGuid>d019e123-f122-4d50-98a0-14025b680238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>a5b0daee-089d-4d0d-824a-a0c3038cf1fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/page/options' and (text() = 'Options' or . = 'Options')]</value>
+      <webElementGuid>fd245769-9757-4a6a-8cb4-9dbb06b22627</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
