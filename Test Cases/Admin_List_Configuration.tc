@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login and check configuration list</description>
+   <name>Admin_List_Configuration</name>
+   <tag>Configuration</tag>
+   <comment></comment>
+   <testCaseGuid>7fb0eb12-72c7-4304-ac85-7a6e7100451d</testCaseGuid>
+</TestCaseEntity>

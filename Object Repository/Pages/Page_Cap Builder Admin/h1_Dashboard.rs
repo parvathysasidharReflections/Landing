@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>639d5aec-6db4-4944-a823-71af2d16f1c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.text-2xl.font-bold.tracking-tight.text-gray-900</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Open main menu'])[1]/following::h1[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>72f2a28b-df92-4860-b302-bd10717174cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-2xl font-bold tracking-tight text-gray-900</value>
+      <webElementGuid>7226a146-6d7e-492f-872a-f60be2d5763d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>e74fd983-97be-4fba-be69-fef6fe4706d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;h-full bg-gray-100&quot;]/body[@class=&quot;__className_0ec1f4 bg-white mx-auto h-full&quot;]/main[@class=&quot;md:flex max-h-fit h-full overflow-hidden&quot;]/div[@class=&quot;max-h-screen overflow-hidden overflow-y-scroll- flex-1&quot;]/div[@class=&quot;min-h-full&quot;]/header[@class=&quot;bg-white shadow&quot;]/div[@class=&quot;mx-auto flex -max-w-7xl px-4 py-4 sm:px-6 lg:px-8 justify-between align-middle&quot;]/div[@class=&quot;col&quot;]/h1[@class=&quot;text-2xl font-bold tracking-tight text-gray-900&quot;]</value>
+      <webElementGuid>7790159e-bab0-4688-91d1-1b9de20e9535</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open main menu'])[1]/following::h1[1]</value>
+      <webElementGuid>6ef8467b-0d49-4acc-ba7c-384cd48315f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open user menu'])[1]/following::h1[1]</value>
+      <webElementGuid>e34d9cd4-a417-47e6-ac13-b3a84ae973a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::h1[1]</value>
+      <webElementGuid>be57f474-d9bc-4187-953e-4aa1513d9874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 New Era Cap'])[1]/preceding::h1[1]</value>
+      <webElementGuid>56676714-6e4d-4ac4-8cee-4a8b93e7a0ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
+      <webElementGuid>67978cc5-81c1-403a-900d-3fce58c1635e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>f9c6eff4-248c-4e10-8be9-ae264ca5fe27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>e583f883-04af-45dc-821c-822a11019823</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

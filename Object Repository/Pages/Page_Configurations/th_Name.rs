@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Name</name>
+   <tag></tag>
+   <elementGuidId>0f38fbdb-fa96-48cf-90f3-393d73183a7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.flext.flex-row.flex-nowrap.gap-1.px-3.py-3.font-medium.text-gray-900.whitespace-nowrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::th[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>6d109e57-4fe4-4815-a870-d074aacc001c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>3b37d21b-c6b2-49c5-af1a-d151c23a3818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flext flex-row flex-nowrap gap-1 px-3 py-3 font-medium text-gray-900 whitespace-nowrap</value>
+      <webElementGuid>196b78a3-11f4-4fbe-9738-ca0fb14e218f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name</value>
+      <webElementGuid>6024da23-81e3-404b-9f98-586c801ca19a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;h-full bg-gray-100&quot;]/body[@class=&quot;__className_0ec1f4 bg-white mx-auto h-full&quot;]/main[@class=&quot;md:flex max-h-fit h-full overflow-hidden&quot;]/div[@class=&quot;max-h-screen overflow-hidden overflow-y-scroll- flex-1&quot;]/div[@class=&quot;relative- max-h-screen overflow-hidden overflow-y-scroll-&quot;]/div[@class=&quot;min-h-full&quot;]/main[1]/div[@class=&quot;#page-container- #relative- #isolate- rounded-lg border border-gray-200 shadow-md #m-5 #md:pb-5  bg-white max-h-screen- overflow-hidden overflow-y-scroll&quot;]/div[@class=&quot;max-h-[600px] sm:max-h-[72vh] md:max-h-[72vh] h-full overflow-y-auto rounded-md border shadow-sm m-5 md:pb-5 border-collapse bg-white text-left text-sm text-gray-500&quot;]/table[@class=&quot;min-w-full divide-y divide-gray-200&quot;]/thead[@class=&quot;sticky top-0 bg-gray-50&quot;]/tr[1]/th[@class=&quot;flext flex-row flex-nowrap gap-1 px-3 py-3 font-medium text-gray-900 whitespace-nowrap&quot;]</value>
+      <webElementGuid>3f7ef2b6-07db-43e8-8f04-cfdb09fea7de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::th[2]</value>
+      <webElementGuid>b2aef70a-e896-4164-9641-1099d677682c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[1]/following::th[2]</value>
+      <webElementGuid>8b2757eb-4159-46f5-84ad-0f59a66afbb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Name'])[1]/preceding::th[1]</value>
+      <webElementGuid>79d655f7-9c26-4ba7-9f16-7c66a7909e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAP Silhouette'])[1]/preceding::th[3]</value>
+      <webElementGuid>540489d6-b472-41bd-838a-0bb98de9a81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Name']/parent::*</value>
+      <webElementGuid>c7c64307-0d95-4152-bf8c-e1cc2bfb7100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]</value>
+      <webElementGuid>ac48dd89-aed7-439d-ad51-5298b1fe0c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Name' or . = 'Name')]</value>
+      <webElementGuid>ba7d012f-5c5f-4908-940a-c9d3eb596fb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
